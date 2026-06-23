@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SurendiranBJ/LeetsCode/tree/master/0001-two-sum) |
+| [0088-merge-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurendiranBJ/LeetsCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/1480-running-sum-of-1d-array) |
@@ -44,9 +45,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0344-reverse-string) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
