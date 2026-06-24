@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/SurendiranBJ/LeetsCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
+| [0283-move-zeroes](https://github.com/SurendiranBJ/LeetsCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/SurendiranBJ/LeetsCode/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SurendiranBJ/LeetsCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/SurendiranBJ/LeetsCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/SurendiranBJ/LeetsCode/tree/master/0349-intersection-of-two-arrays) |
