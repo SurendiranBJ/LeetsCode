@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SurendiranBJ/LeetsCode/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SurendiranBJ/LeetsCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SurendiranBJ/LeetsCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SurendiranBJ/LeetsCode/tree/master/0242-valid-anagram) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SurendiranBJ/LeetsCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/SurendiranBJ/LeetsCode/tree/master/0242-valid-anagram) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/SurendiranBJ/LeetsCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/1004-max-consecutive-ones-iii) |
