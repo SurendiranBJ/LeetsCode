@@ -7,10 +7,8 @@ class Solution(object):
         ans=0
         c=0
         left=0
-        if len(nums)==1 and nums[0]==0:
-            return 0
-        elif len(nums)==1:
-            return 1    
+        if len(nums)==1:
+            return nums[0]  
         for right in range(len(nums)):
             if nums[right]==1:
                 c+=1
