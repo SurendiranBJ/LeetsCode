@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/SurendiranBJ/LeetsCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurendiranBJ/LeetsCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0169-majority-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/SurendiranBJ/LeetsCode/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/SurendiranBJ/LeetsCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SurendiranBJ/LeetsCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurendiranBJ/LeetsCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0151-reverse-words-in-a-string) |
+| [0187-repeated-dna-sequences](https://github.com/SurendiranBJ/LeetsCode/tree/master/0187-repeated-dna-sequences) |
 | [0242-valid-anagram](https://github.com/SurendiranBJ/LeetsCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0345-reverse-vowels-of-a-string) |
@@ -155,16 +157,26 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/SurendiranBJ/LeetsCode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/SurendiranBJ/LeetsCode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurendiranBJ/LeetsCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0187-repeated-dna-sequences](https://github.com/SurendiranBJ/LeetsCode/tree/master/0187-repeated-dna-sequences) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/SurendiranBJ/LeetsCode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/SurendiranBJ/LeetsCode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/SurendiranBJ/LeetsCode/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/SurendiranBJ/LeetsCode/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
