@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/SurendiranBJ/LeetsCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/SurendiranBJ/LeetsCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0904-fruit-into-baskets](https://github.com/SurendiranBJ/LeetsCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/SurendiranBJ/LeetsCode/tree/master/0349-intersection-of-two-arrays) |
 | [0704-binary-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0704-binary-search) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 ## Counting
