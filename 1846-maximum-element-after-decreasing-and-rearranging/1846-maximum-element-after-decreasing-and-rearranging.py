@@ -1,3 +1,4 @@
+import numpy as np
 class Solution(object):
     def maximumElementAfterDecrementingAndRearranging(self, arr):
         """
@@ -12,6 +13,7 @@ class Solution(object):
                 arr[0],arr[idx]=arr[idx],arr[0]
             else:
                 arr[0]=1
+        arr=np.array(arr)        
         for j in range(1,len(arr)):
             if abs(arr[j]-arr[j-1])<=1:
                 continue
