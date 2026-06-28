@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SurendiranBJ/LeetsCode/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/0027-remove-element) |
+| [0046-permutations](https://github.com/SurendiranBJ/LeetsCode/tree/master/0046-permutations) |
 | [0056-merge-intervals](https://github.com/SurendiranBJ/LeetsCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/SurendiranBJ/LeetsCode/tree/master/0075-sort-colors) |
@@ -206,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3819-rotate-non-negative-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3819-rotate-non-negative-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/SurendiranBJ/LeetsCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
