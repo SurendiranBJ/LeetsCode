@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/1480-running-sum-of-1d-array) |
 | [1652-defuse-the-bomb](https://github.com/SurendiranBJ/LeetsCode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/SurendiranBJ/LeetsCode/tree/master/1672-richest-customer-wealth) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SurendiranBJ/LeetsCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -157,12 +158,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SurendiranBJ/LeetsCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurendiranBJ/LeetsCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SurendiranBJ/LeetsCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
 ## Divide and Conquer
 |  |
