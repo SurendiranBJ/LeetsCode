@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurendiranBJ/LeetsCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0338-counting-bits](https://github.com/SurendiranBJ/LeetsCode/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/SurendiranBJ/LeetsCode/tree/master/0392-is-subsequence) |
 ## Two Pointers
 |  |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/SurendiranBJ/LeetsCode/tree/master/0187-repeated-dna-sequences) |
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/SurendiranBJ/LeetsCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/SurendiranBJ/LeetsCode/tree/master/0389-find-the-difference) |
 ## Sliding Window
 |  |
