@@ -7,6 +7,5 @@ class Solution(object):
         ans=[]
         for i in range(n+1):
             sol=format(i,'b')
-            print(sol)
             ans.append(sol.count('1'))
         return ans    
