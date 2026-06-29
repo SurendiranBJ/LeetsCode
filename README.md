@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/0027-remove-element) |
 | [0046-permutations](https://github.com/SurendiranBJ/LeetsCode/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/0054-spiral-matrix) |
 | [0056-merge-intervals](https://github.com/SurendiranBJ/LeetsCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/SurendiranBJ/LeetsCode/tree/master/0075-sort-colors) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0048-rotate-image) |
+| [0054-spiral-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
 | [1672-richest-customer-wealth](https://github.com/SurendiranBJ/LeetsCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
@@ -215,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
