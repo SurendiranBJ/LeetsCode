@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/SurendiranBJ/LeetsCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 | [0904-fruit-into-baskets](https://github.com/SurendiranBJ/LeetsCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/1004-max-consecutive-ones-iii) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 | [1672-richest-customer-wealth](https://github.com/SurendiranBJ/LeetsCode/tree/master/1672-richest-customer-wealth) |
 ## Prefix Sum
 |  |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0567-permutation-in-string) |
 | [0821-shortest-distance-to-a-character](https://github.com/SurendiranBJ/LeetsCode/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 | [0917-reverse-only-letters](https://github.com/SurendiranBJ/LeetsCode/tree/master/0917-reverse-only-letters) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/SurendiranBJ/LeetsCode/tree/master/1768-merge-strings-alternately) |
@@ -194,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SurendiranBJ/LeetsCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/SurendiranBJ/LeetsCode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |
@@ -221,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
+| [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3819-rotate-non-negative-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3819-rotate-non-negative-elements) |
