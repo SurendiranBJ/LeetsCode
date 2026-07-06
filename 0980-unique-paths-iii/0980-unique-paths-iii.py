@@ -24,10 +24,6 @@ class Solution(object):
         sol[x][y]=0
         return False             
     def uniquePathsIII(self, grid):
-        """
-        :type grid: List[List[int]]
-        :rtype: int
-        """
         global c,tot
         c=0
         m=len(grid)
@@ -42,8 +38,7 @@ class Solution(object):
                     a=i
                     b=j
                 if grid[i][j]==-1:
-                    ob+=1
-        print(a,b)               
+                    ob+=1             
         self.tot=(n*m)-ob
         self.findsol(a,b,grid,sol,n,m,0)
         return self.c
