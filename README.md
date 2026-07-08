@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/SurendiranBJ/LeetsCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/SurendiranBJ/LeetsCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SurendiranBJ/LeetsCode/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/SurendiranBJ/LeetsCode/tree/master/0187-repeated-dna-sequences) |
+| [0231-power-of-two](https://github.com/SurendiranBJ/LeetsCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/SurendiranBJ/LeetsCode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/SurendiranBJ/LeetsCode/tree/master/0389-find-the-difference) |
@@ -279,5 +281,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/SurendiranBJ/LeetsCode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/SurendiranBJ/LeetsCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
