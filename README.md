@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/SurendiranBJ/LeetsCode/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/SurendiranBJ/LeetsCode/tree/master/0326-power-of-three) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -272,4 +273,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/SurendiranBJ/LeetsCode/tree/master/0062-unique-paths) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/SurendiranBJ/LeetsCode/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
