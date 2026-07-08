@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/SurendiranBJ/LeetsCode/tree/master/1652-defuse-the-bomb) |
 | [1672-richest-customer-wealth](https://github.com/SurendiranBJ/LeetsCode/tree/master/1672-richest-customer-wealth) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SurendiranBJ/LeetsCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SurendiranBJ/LeetsCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
