@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/SurendiranBJ/LeetsCode/tree/master/0046-permutations) |
+| [0077-combinations](https://github.com/SurendiranBJ/LeetsCode/tree/master/0077-combinations) |
 | [0980-unique-paths-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0980-unique-paths-iii) |
 ## Heap (Priority Queue)
 |  |
