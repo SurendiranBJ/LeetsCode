@@ -299,4 +299,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0509-fibonacci-number) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
