@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2798-number-of-employees-who-met-the-target) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3819-rotate-non-negative-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3819-rotate-non-negative-elements) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Counting
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/SurendiranBJ/LeetsCode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -204,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/1331-rank-transform-of-an-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SurendiranBJ/LeetsCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Greedy
 |  |
 | ------- |
