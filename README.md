@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3819-rotate-non-negative-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3819-rotate-non-negative-elements) |
 ## Hash Table
 |  |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/1004-max-consecutive-ones-iii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Counting
 |  |
 | ------- |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SurendiranBJ/LeetsCode/tree/master/1768-merge-strings-alternately) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## String
 |  |
 | ------- |
@@ -253,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SurendiranBJ/LeetsCode/tree/master/0389-find-the-difference) |
 | [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0980-unique-paths-iii) |
+| [3766-minimum-operations-to-make-binary-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Sliding Window
 |  |
 | ------- |
