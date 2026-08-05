@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1523-count-odd-numbers-in-an-interval-range](https://github.com/SurendiranBJ/LeetsCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/3536-maximum-product-of-two-digits) |
