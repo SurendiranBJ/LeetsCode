@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [2553-separate-the-digits-in-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/SurendiranBJ/LeetsCode/tree/master/2672-number-of-adjacent-elements-with-the-same-color) |
 | [2679-sum-in-a-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/2679-sum-in-a-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
