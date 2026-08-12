@@ -71,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2798-number-of-employees-who-met-the-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2906-construct-product-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/2906-construct-product-matrix) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1331-rank-transform-of-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/1331-rank-transform-of-an-array) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/SurendiranBJ/LeetsCode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
@@ -308,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/SurendiranBJ/LeetsCode/tree/master/1652-defuse-the-bomb) |
 | [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/SurendiranBJ/LeetsCode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Rolling Hash
 |  |
 | ------- |
