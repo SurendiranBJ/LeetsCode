@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3345-smallest-divisible-digit-product-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/SurendiranBJ/LeetsCode/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Binary Search
 |  |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SurendiranBJ/LeetsCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0877-stone-game) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1291-sequential-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/1291-sequential-digits) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/SurendiranBJ/LeetsCode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
 |  |
 | ------- |
