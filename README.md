@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0821-shortest-distance-to-a-character](https://github.com/SurendiranBJ/LeetsCode/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
+| [0846-hand-of-straights](https://github.com/SurendiranBJ/LeetsCode/tree/master/0846-hand-of-straights) |
 | [0877-stone-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0877-stone-game) |
 | [0904-fruit-into-baskets](https://github.com/SurendiranBJ/LeetsCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0977-squares-of-a-sorted-array) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0438-find-all-anagrams-in-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0567-permutation-in-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0567-permutation-in-string) |
 | [0771-jewels-and-stones](https://github.com/SurendiranBJ/LeetsCode/tree/master/0771-jewels-and-stones) |
+| [0846-hand-of-straights](https://github.com/SurendiranBJ/LeetsCode/tree/master/0846-hand-of-straights) |
 | [0904-fruit-into-baskets](https://github.com/SurendiranBJ/LeetsCode/tree/master/0904-fruit-into-baskets) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SurendiranBJ/LeetsCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/1331-rank-transform-of-an-array) |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SurendiranBJ/LeetsCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/SurendiranBJ/LeetsCode/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SurendiranBJ/LeetsCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/1331-rank-transform-of-an-array) |
@@ -280,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurendiranBJ/LeetsCode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
+| [0846-hand-of-straights](https://github.com/SurendiranBJ/LeetsCode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SurendiranBJ/LeetsCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SurendiranBJ/LeetsCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
