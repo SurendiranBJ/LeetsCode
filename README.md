@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/SurendiranBJ/LeetsCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/SurendiranBJ/LeetsCode/tree/master/0075-sort-colors) |
+| [0079-word-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurendiranBJ/LeetsCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0136-single-number) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
+| [0079-word-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/SurendiranBJ/LeetsCode/tree/master/1219-path-with-maximum-gold) |
@@ -223,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurendiranBJ/LeetsCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/SurendiranBJ/LeetsCode/tree/master/0049-group-anagrams) |
+| [0079-word-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/0151-reverse-words-in-a-string) |
 | [0187-repeated-dna-sequences](https://github.com/SurendiranBJ/LeetsCode/tree/master/0187-repeated-dna-sequences) |
@@ -354,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/SurendiranBJ/LeetsCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/SurendiranBJ/LeetsCode/tree/master/0077-combinations) |
+| [0079-word-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0079-word-search) |
 | [0980-unique-paths-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/SurendiranBJ/LeetsCode/tree/master/1219-path-with-maximum-gold) |
 ## Heap (Priority Queue)
@@ -424,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/2390-removing-stars-from-a-string) |
+## Depth-First Search
+|  |
+| ------- |
+| [0079-word-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
