@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/SurendiranBJ/LeetsCode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SurendiranBJ/LeetsCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3731-find-missing-elements) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3819-rotate-non-negative-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3819-rotate-non-negative-elements) |
@@ -312,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/SurendiranBJ/LeetsCode/tree/master/0393-utf-8-validation) |
 | [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0980-unique-paths-iii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SurendiranBJ/LeetsCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 ## Sliding Window
 |  |
