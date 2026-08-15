@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SurendiranBJ/LeetsCode/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/SurendiranBJ/LeetsCode/tree/master/0056-merge-intervals) |
 | [0059-spiral-matrix-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0059-spiral-matrix-ii) |
 | [0075-sort-colors](https://github.com/SurendiranBJ/LeetsCode/tree/master/0075-sort-colors) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SurendiranBJ/LeetsCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SurendiranBJ/LeetsCode/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SurendiranBJ/LeetsCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SurendiranBJ/LeetsCode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
 | [0846-hand-of-straights](https://github.com/SurendiranBJ/LeetsCode/tree/master/0846-hand-of-straights) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SurendiranBJ/LeetsCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
