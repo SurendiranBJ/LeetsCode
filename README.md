@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/SurendiranBJ/LeetsCode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SurendiranBJ/LeetsCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3731-find-missing-elements) |
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3819-rotate-non-negative-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3819-rotate-non-negative-elements) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SurendiranBJ/LeetsCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/SurendiranBJ/LeetsCode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3731-find-missing-elements) |
 ## Matrix
 |  |
