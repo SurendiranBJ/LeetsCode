@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-build-array-from-permutation](https://github.com/SurendiranBJ/LeetsCode/tree/master/1920-build-array-from-permutation) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SurendiranBJ/LeetsCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
+| [2059-minimum-operations-to-convert-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2114-maximum-number-of-words-found-in-sentences](https://github.com/SurendiranBJ/LeetsCode/tree/master/2114-maximum-number-of-words-found-in-sentences) |
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
@@ -401,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SurendiranBJ/LeetsCode/tree/master/0322-coin-change) |
 | [0797-all-paths-from-source-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0797-all-paths-from-source-to-target) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SurendiranBJ/LeetsCode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
+| [2059-minimum-operations-to-convert-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/2059-minimum-operations-to-convert-number) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
