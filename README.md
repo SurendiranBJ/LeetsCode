@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/2679-sum-in-a-matrix) |
 | [2798-number-of-employees-who-met-the-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2798-number-of-employees-who-met-the-target) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [2855-minimum-right-shifts-to-sort-the-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2855-minimum-right-shifts-to-sort-the-array) |
 | [2906-construct-product-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/2906-construct-product-matrix) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
