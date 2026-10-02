@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SurendiranBJ/LeetsCode/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/SurendiranBJ/LeetsCode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SurendiranBJ/LeetsCode/tree/master/0070-climbing-stairs) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SurendiranBJ/LeetsCode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0022-generate-parentheses](https://github.com/SurendiranBJ/LeetsCode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/SurendiranBJ/LeetsCode/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/0125-valid-palindrome) |
@@ -374,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/SurendiranBJ/LeetsCode/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/SurendiranBJ/LeetsCode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/SurendiranBJ/LeetsCode/tree/master/0077-combinations) |
@@ -476,4 +479,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0797-all-paths-from-source-to-target) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/SurendiranBJ/LeetsCode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
