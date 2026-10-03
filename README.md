@@ -206,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/SurendiranBJ/LeetsCode/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0877-stone-game) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SurendiranBJ/LeetsCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 | [3857-minimum-cost-to-split-into-ones](https://github.com/SurendiranBJ/LeetsCode/tree/master/3857-minimum-cost-to-split-into-ones) |
 ## Two Pointers
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SurendiranBJ/LeetsCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SurendiranBJ/LeetsCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2059-minimum-operations-to-convert-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/2059-minimum-operations-to-convert-number) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SurendiranBJ/LeetsCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Graph Theory
 |  |
@@ -440,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0070-climbing-stairs](https://github.com/SurendiranBJ/LeetsCode/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0509-fibonacci-number) |
+| [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SurendiranBJ/LeetsCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 ## Enumeration
 |  |
 | ------- |
