@@ -7,7 +7,6 @@ class Solution:
         visi.add(x)
         q.append((x,0))
         while q:
-            print(q)
             cur,cost=q.popleft()
             if cur==y:
                 return cost
