@@ -4,7 +4,6 @@ class Solution:
         ans=height[0]
         pre=height[0]
         for i in range(1,len(height)):
-            print(pre)
             if height[i]<pre:
                 ans+=height[i]
                 pre=height[i]
