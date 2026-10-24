@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/3005-count-elements-with-maximum-frequency) |
+| [3206-alternating-groups-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3206-alternating-groups-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
@@ -368,6 +369,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SurendiranBJ/LeetsCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3206-alternating-groups-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3206-alternating-groups-i) |
 ## Rolling Hash
 |  |
 | ------- |
