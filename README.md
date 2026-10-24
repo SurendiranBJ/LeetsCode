@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3766-minimum-operations-to-make-binary-palindrome](https://github.com/SurendiranBJ/LeetsCode/tree/master/3766-minimum-operations-to-make-binary-palindrome) |
 | [3819-rotate-non-negative-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3819-rotate-non-negative-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3875-construct-uniform-parity-array-i) |
+| [3978-unique-middle-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/3978-unique-middle-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3978-unique-middle-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
 | ------- |
