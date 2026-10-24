@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2443-sum-of-number-and-its-reverse](https://github.com/SurendiranBJ/LeetsCode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/3536-maximum-product-of-two-digits) |
@@ -327,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/SurendiranBJ/LeetsCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/SurendiranBJ/LeetsCode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 ## Divide and Conquer
@@ -462,6 +464,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SurendiranBJ/LeetsCode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/SurendiranBJ/LeetsCode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3091-apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Number Theory
