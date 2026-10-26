@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3301-maximize-the-total-height-of-unique-towers](https://github.com/SurendiranBJ/LeetsCode/tree/master/3301-maximize-the-total-height-of-unique-towers) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/SurendiranBJ/LeetsCode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/SurendiranBJ/LeetsCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3731-find-missing-elements) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2679-sum-in-a-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/2679-sum-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/SurendiranBJ/LeetsCode/tree/master/2906-construct-product-matrix) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -451,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-minimum-operations-to-convert-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/2059-minimum-operations-to-convert-number) |
 | [2998-minimum-number-of-operations-to-make-x-and-y-equal](https://github.com/SurendiranBJ/LeetsCode/tree/master/2998-minimum-number-of-operations-to-make-x-and-y-equal) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Graph Theory
 |  |
 | ------- |
@@ -514,6 +517,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0841-keys-and-rooms](https://github.com/SurendiranBJ/LeetsCode/tree/master/0841-keys-and-rooms) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SurendiranBJ/LeetsCode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SurendiranBJ/LeetsCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Linked List
 |  |
 | ------- |
@@ -547,4 +551,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/SurendiranBJ/LeetsCode/tree/master/1971-find-if-path-exists-in-graph) |
+| [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
