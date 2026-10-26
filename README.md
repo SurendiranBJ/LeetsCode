@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/SurendiranBJ/LeetsCode/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0977-squares-of-a-sorted-array) |
 | [0980-unique-paths-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/SurendiranBJ/LeetsCode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1219-path-with-maximum-gold](https://github.com/SurendiranBJ/LeetsCode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0079-word-search) |
 | [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0980-unique-paths-iii) |
+| [0994-rotting-oranges](https://github.com/SurendiranBJ/LeetsCode/tree/master/0994-rotting-oranges) |
 | [1219-path-with-maximum-gold](https://github.com/SurendiranBJ/LeetsCode/tree/master/1219-path-with-maximum-gold) |
 | [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/1260-shift-2d-grid) |
@@ -449,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SurendiranBJ/LeetsCode/tree/master/0322-coin-change) |
 | [0797-all-paths-from-source-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SurendiranBJ/LeetsCode/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/SurendiranBJ/LeetsCode/tree/master/0994-rotting-oranges) |
 | [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SurendiranBJ/LeetsCode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SurendiranBJ/LeetsCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
