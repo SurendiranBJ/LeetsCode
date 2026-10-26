@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0980-unique-paths-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0980-unique-paths-iii) |
 | [1004-max-consecutive-ones-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/1004-max-consecutive-ones-iii) |
 | [1219-path-with-maximum-gold](https://github.com/SurendiranBJ/LeetsCode/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/1260-shift-2d-grid) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SurendiranBJ/LeetsCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/SurendiranBJ/LeetsCode/tree/master/0832-flipping-an-image) |
 | [0980-unique-paths-iii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0980-unique-paths-iii) |
 | [1219-path-with-maximum-gold](https://github.com/SurendiranBJ/LeetsCode/tree/master/1219-path-with-maximum-gold) |
+| [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
 | [1260-shift-2d-grid](https://github.com/SurendiranBJ/LeetsCode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/SurendiranBJ/LeetsCode/tree/master/1672-richest-customer-wealth) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SurendiranBJ/LeetsCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -447,6 +449,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/SurendiranBJ/LeetsCode/tree/master/0322-coin-change) |
 | [0797-all-paths-from-source-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SurendiranBJ/LeetsCode/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SurendiranBJ/LeetsCode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SurendiranBJ/LeetsCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SurendiranBJ/LeetsCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -515,6 +518,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SurendiranBJ/LeetsCode/tree/master/0841-keys-and-rooms) |
+| [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SurendiranBJ/LeetsCode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SurendiranBJ/LeetsCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
@@ -550,6 +554,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SurendiranBJ/LeetsCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 <!---LeetCode Topics End-->
