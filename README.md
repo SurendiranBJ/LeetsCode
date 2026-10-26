@@ -560,4 +560,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SurendiranBJ/LeetsCode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+## Database
+|  |
+| ------- |
+| [0184-department-highest-salary](https://github.com/SurendiranBJ/LeetsCode/tree/master/0184-department-highest-salary) |
 <!---LeetCode Topics End-->
