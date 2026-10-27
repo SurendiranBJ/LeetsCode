@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues](https://github.com/SurendiranBJ/LeetsCode/tree/master/3572-maximize-ysum-by-picking-a-triplet-of-distinct-xvalues) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/SurendiranBJ/LeetsCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3731-find-missing-elements) |
+| [3889-mirror-frequency-distance](https://github.com/SurendiranBJ/LeetsCode/tree/master/3889-mirror-frequency-distance) |
 ## Matrix
 |  |
 | ------- |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3889-mirror-frequency-distance](https://github.com/SurendiranBJ/LeetsCode/tree/master/3889-mirror-frequency-distance) |
 | [3978-unique-middle-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
 |  |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SurendiranBJ/LeetsCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3889-mirror-frequency-distance](https://github.com/SurendiranBJ/LeetsCode/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
 | ------- |
