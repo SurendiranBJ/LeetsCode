@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/SurendiranBJ/LeetsCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3889-mirror-frequency-distance](https://github.com/SurendiranBJ/LeetsCode/tree/master/3889-mirror-frequency-distance) |
 | [3978-unique-middle-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/3978-unique-middle-element) |
 ## Dynamic Programming
@@ -307,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SurendiranBJ/LeetsCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3498-reverse-degree-of-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/SurendiranBJ/LeetsCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 | [3889-mirror-frequency-distance](https://github.com/SurendiranBJ/LeetsCode/tree/master/3889-mirror-frequency-distance) |
 ## Sorting
 |  |
@@ -517,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/SurendiranBJ/LeetsCode/tree/master/2390-removing-stars-from-a-string) |
+| [3746-minimum-string-length-after-balanced-removals](https://github.com/SurendiranBJ/LeetsCode/tree/master/3746-minimum-string-length-after-balanced-removals) |
 ## Depth-First Search
 |  |
 | ------- |
