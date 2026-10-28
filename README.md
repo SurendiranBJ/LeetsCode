@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-minimum-distance-to-the-target-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1920-build-array-from-permutation](https://github.com/SurendiranBJ/LeetsCode/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SurendiranBJ/LeetsCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1936-add-minimum-number-of-rungs](https://github.com/SurendiranBJ/LeetsCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SurendiranBJ/LeetsCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2059-minimum-operations-to-convert-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/2059-minimum-operations-to-convert-number) |
@@ -358,6 +359,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SurendiranBJ/LeetsCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/SurendiranBJ/LeetsCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SurendiranBJ/LeetsCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1936-add-minimum-number-of-rungs](https://github.com/SurendiranBJ/LeetsCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
