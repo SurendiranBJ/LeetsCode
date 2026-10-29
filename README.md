@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3005-count-elements-with-maximum-frequency](https://github.com/SurendiranBJ/LeetsCode/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3074-apple-redistribution-into-boxes](https://github.com/SurendiranBJ/LeetsCode/tree/master/3074-apple-redistribution-into-boxes) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SurendiranBJ/LeetsCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SurendiranBJ/LeetsCode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3206-alternating-groups-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3206-alternating-groups-i) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/SurendiranBJ/LeetsCode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/SurendiranBJ/LeetsCode/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3159-find-occurrences-of-an-element-in-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/3159-find-occurrences-of-an-element-in-an-array) |
 | [3160-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SurendiranBJ/LeetsCode/tree/master/3160-find-the-number-of-distinct-colors-among-the-balls) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/3471-find-the-largest-almost-missing-integer) |
