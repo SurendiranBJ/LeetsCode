@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3875-construct-uniform-parity-array-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3978-unique-middle-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/3978-unique-middle-element) |
 | [4031-find-all-numbers-disappeared-in-an-array-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/4031-find-all-numbers-disappeared-in-an-array-ii) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3731-find-missing-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/3731-find-missing-elements) |
 | [3741-minimum-distance-between-three-equal-elements-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/3741-minimum-distance-between-three-equal-elements-ii) |
 | [3889-mirror-frequency-distance](https://github.com/SurendiranBJ/LeetsCode/tree/master/3889-mirror-frequency-distance) |
+| [4049-count-values-with-equally-spaced-occurrences-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/4049-count-values-with-equally-spaced-occurrences-ii) |
 ## Matrix
 |  |
 | ------- |
