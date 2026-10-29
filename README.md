@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SurendiranBJ/LeetsCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/1331-rank-transform-of-an-array) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SurendiranBJ/LeetsCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SurendiranBJ/LeetsCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/SurendiranBJ/LeetsCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -234,6 +235,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/SurendiranBJ/LeetsCode/tree/master/0347-top-k-frequent-elements) |
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SurendiranBJ/LeetsCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SurendiranBJ/LeetsCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/SurendiranBJ/LeetsCode/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SurendiranBJ/LeetsCode/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/SurendiranBJ/LeetsCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/SurendiranBJ/LeetsCode/tree/master/1816-truncate-sentence) |
+| [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/SurendiranBJ/LeetsCode/tree/master/1941-check-if-all-characters-have-equal-number-of-occurrences) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SurendiranBJ/LeetsCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/2108-find-first-palindromic-string-in-the-array) |
