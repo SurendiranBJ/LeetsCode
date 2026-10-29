@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/SurendiranBJ/LeetsCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SurendiranBJ/LeetsCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [2443-sum-of-number-and-its-reverse](https://github.com/SurendiranBJ/LeetsCode/tree/master/2443-sum-of-number-and-its-reverse) |
 | [2961-double-modular-exponentiation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2961-double-modular-exponentiation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/SurendiranBJ/LeetsCode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SurendiranBJ/LeetsCode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/SurendiranBJ/LeetsCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1768-merge-strings-alternately](https://github.com/SurendiranBJ/LeetsCode/tree/master/1768-merge-strings-alternately) |
+| [1812-determine-color-of-a-chessboard-square](https://github.com/SurendiranBJ/LeetsCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1816-truncate-sentence](https://github.com/SurendiranBJ/LeetsCode/tree/master/1816-truncate-sentence) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SurendiranBJ/LeetsCode/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2023-number-of-pairs-of-strings-with-concatenation-equal-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/2023-number-of-pairs-of-strings-with-concatenation-equal-to-target) |
