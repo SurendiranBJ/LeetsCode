@@ -472,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/SurendiranBJ/LeetsCode/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/SurendiranBJ/LeetsCode/tree/master/0322-coin-change) |
 | [0655-print-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0655-print-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -545,6 +546,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0079-word-search) |
+| [0112-path-sum](https://github.com/SurendiranBJ/LeetsCode/tree/master/0112-path-sum) |
 | [0655-print-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0797-all-paths-from-source-to-target) |
@@ -575,12 +577,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/SurendiranBJ/LeetsCode/tree/master/0112-path-sum) |
 | [0655-print-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SurendiranBJ/LeetsCode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
 | ------- |
+| [0112-path-sum](https://github.com/SurendiranBJ/LeetsCode/tree/master/0112-path-sum) |
 | [0655-print-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SurendiranBJ/LeetsCode/tree/master/2236-root-equals-sum-of-children) |
