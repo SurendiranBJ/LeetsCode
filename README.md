@@ -558,6 +558,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0797-all-paths-from-source-to-target) |
 | [0841-keys-and-rooms](https://github.com/SurendiranBJ/LeetsCode/tree/master/0841-keys-and-rooms) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [1254-number-of-closed-islands](https://github.com/SurendiranBJ/LeetsCode/tree/master/1254-number-of-closed-islands) |
 | [1625-lexicographically-smallest-string-after-applying-operations](https://github.com/SurendiranBJ/LeetsCode/tree/master/1625-lexicographically-smallest-string-after-applying-operations) |
 | [1971-find-if-path-exists-in-graph](https://github.com/SurendiranBJ/LeetsCode/tree/master/1971-find-if-path-exists-in-graph) |
@@ -587,6 +588,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SurendiranBJ/LeetsCode/tree/master/0112-path-sum) |
 | [0655-print-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SurendiranBJ/LeetsCode/tree/master/2236-root-equals-sum-of-children) |
 ## Binary Tree
 |  |
@@ -594,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/SurendiranBJ/LeetsCode/tree/master/0112-path-sum) |
 | [0655-print-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0655-print-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/SurendiranBJ/LeetsCode/tree/master/2236-root-equals-sum-of-children) |
 ## Union-Find
 |  |
@@ -605,4 +608,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0184-department-highest-salary](https://github.com/SurendiranBJ/LeetsCode/tree/master/0184-department-highest-salary) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1038-binary-search-tree-to-greater-sum-tree](https://github.com/SurendiranBJ/LeetsCode/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
 <!---LeetCode Topics End-->
