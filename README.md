@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1816-truncate-sentence](https://github.com/SurendiranBJ/LeetsCode/tree/master/1816-truncate-sentence) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SurendiranBJ/LeetsCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SurendiranBJ/LeetsCode/tree/master/1848-minimum-distance-to-the-target-element) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/SurendiranBJ/LeetsCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1920-build-array-from-permutation](https://github.com/SurendiranBJ/LeetsCode/tree/master/1920-build-array-from-permutation) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/SurendiranBJ/LeetsCode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1936-add-minimum-number-of-rungs](https://github.com/SurendiranBJ/LeetsCode/tree/master/1936-add-minimum-number-of-rungs) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1481-least-number-of-unique-integers-after-k-removals](https://github.com/SurendiranBJ/LeetsCode/tree/master/1481-least-number-of-unique-integers-after-k-removals) |
 | [1663-smallest-string-with-a-given-numeric-value](https://github.com/SurendiranBJ/LeetsCode/tree/master/1663-smallest-string-with-a-given-numeric-value) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/SurendiranBJ/LeetsCode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/SurendiranBJ/LeetsCode/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1936-add-minimum-number-of-rungs](https://github.com/SurendiranBJ/LeetsCode/tree/master/1936-add-minimum-number-of-rungs) |
 | [2126-destroying-asteroids](https://github.com/SurendiranBJ/LeetsCode/tree/master/2126-destroying-asteroids) |
 | [2734-lexicographically-smallest-string-after-substring-operation](https://github.com/SurendiranBJ/LeetsCode/tree/master/2734-lexicographically-smallest-string-after-substring-operation) |
