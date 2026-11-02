@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0393-utf-8-validation](https://github.com/SurendiranBJ/LeetsCode/tree/master/0393-utf-8-validation) |
 | [0414-third-maximum-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/SurendiranBJ/LeetsCode/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/SurendiranBJ/LeetsCode/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SurendiranBJ/LeetsCode/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/SurendiranBJ/LeetsCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/SurendiranBJ/LeetsCode/tree/master/0326-power-of-three) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0509-fibonacci-number) |
 | [0877-stone-game](https://github.com/SurendiranBJ/LeetsCode/tree/master/0877-stone-game) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/SurendiranBJ/LeetsCode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -352,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/SurendiranBJ/LeetsCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/SurendiranBJ/LeetsCode/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/SurendiranBJ/LeetsCode/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SurendiranBJ/LeetsCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0846-hand-of-straights](https://github.com/SurendiranBJ/LeetsCode/tree/master/0846-hand-of-straights) |
 | [0977-squares-of-a-sorted-array](https://github.com/SurendiranBJ/LeetsCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1296-divide-array-in-sets-of-k-consecutive-numbers](https://github.com/SurendiranBJ/LeetsCode/tree/master/1296-divide-array-in-sets-of-k-consecutive-numbers) |
